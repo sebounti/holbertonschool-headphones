@@ -1,7 +1,7 @@
 # holbertonschool-headphones
 
 
-![Alt](/images/exemple.png)
+![exemple](images/exemple.png)
 
 
 Reproduce this web page from scratch, without any libraries. You'll use all the HTML/CSS/Accessibility/Responsive design skills you've learned previously.
