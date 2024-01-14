@@ -1,11 +1,7 @@
 # holbertonschool-headphones
 
 
-![](images/screen01.jpg)
-
-![](images/screen02.jpg)
-
-![](images/screen03.jpg)
+![](images/exemples.jpg)
 
 
 Reproduce this web page from scratch, without any libraries. You'll use all the HTML/CSS/Accessibility/Responsive design skills you've learned previously.
